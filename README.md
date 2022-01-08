@@ -1,1 +1,1 @@
-# dc_stock_portfolio_generator
+# differential-capital
